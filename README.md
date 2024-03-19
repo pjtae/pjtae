@@ -1,7 +1,7 @@
 ## <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> &nbsp;Hello, World!. ☺️
 
-🔹 &nbsp;멘트적는공간.\
-🔹 &nbsp;저에 대해 궁금하시다면, 제 <a href="https://https://www.notion.so/pjtae/a23ddc824f174794bb9a1e18feba431f">소개 페이지</a>를 방문해주세요.
+🔹 &nbsp;안녕하세요!.\
+🔹 &nbsp;저에 대해 궁금하시다면, 제 <a href="https://pjtae.notion.site/Jungtae-a23ddc824f174794bb9a1e18feba431f?pvs=74">소개 페이지</a>를 방문해주세요.
 
 
 <details>
